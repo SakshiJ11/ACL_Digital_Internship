@@ -1,0 +1,4 @@
+# Ignore large files
+/myenv/
+/appendicitis_model.h5
+/Dataset/
